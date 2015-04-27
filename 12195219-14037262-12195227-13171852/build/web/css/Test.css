@@ -1,0 +1,163 @@
+
+.buy_now_button {
+    
+    color: #eeeef4;
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    width: 100px;
+    height: 30px;
+    background: url(images/buybtn.png) no-repeat;
+    font-weight: bold;
+
+}
+
+.productboxcontainer{
+    -webkit-box-shadow: inset -2px -2px 82px 0px rgba(230,221,230,1);
+    -moz-box-shadow: inset -2px -2px 82px 0px rgba(230,221,230,1);
+    box-shadow: inset -2px -2px 82px 0px rgba(230,221,230,1);
+}
+
+.searchdiv
+{
+    text-align:center;
+    color: #cc9900;
+
+}
+.searchdiv h1
+{
+    text-align:center;
+    color: #cc9900;
+
+}
+.searchdiv h2
+{
+    text-align:center;
+    color: #85391f;
+    font-size: 15px;
+
+}
+.gap
+{
+    margin-top: 50px;
+}
+.gap1
+{
+    margin-top: 100px;
+}
+.gap3
+{
+    margin-top: 20px;
+}
+
+.chkoutbtn1 {
+   margin-left: 750px;
+   text-align: center;
+   width:300px;
+   padding: 4px 0 5px 0;
+   background-color: #996600;
+   color: #cc9900;
+   font-weight: bold;
+}
+
+.chkoutbtn{
+   
+padding:5px 15px; background:#FF4000; border:0 none;
+cursor:pointer;
+-webkit-border-radius: 5px;
+border-radius: 5px; 
+}
+
+#templatemo_search {
+    clear: both;
+    background: url(images/templatemo_search_bg.jpg) no-repeat;
+}
+
+#templatemo_search ul {
+    padding: 13px 0 0 0;
+    margin:0 0 0 125px;
+    
+}
+
+#templatemo_search ul li a{
+    float: left;
+    padding: 0 20px;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    color: #969547;
+    
+}
+#templatemo_search input{
+width: 300px;
+height: 30px;
+}
+
+#templatemo_search1 li a:hover, #templatemo_search li .current{
+    color: #005388;
+}
+#templatemo_search1 {
+    clear: both;
+    width: 960px;
+    height: 40px;
+    background: url(images/templatemo_search_bg.jpg) no-repeat;
+    
+}
+
+#templatemo_search1 ul {
+    padding: 13px 0 0 0;
+    margin:0 0 0 20px;
+    list-style: none;
+}
+
+
+#templatemo_search1 ul li a{
+    float: left;
+    padding: 0 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    color: #969547;
+}
+#templatemo_search1 ul a{
+    float: right;
+    padding: 4px 0 5px 0;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    color: #fcf88e;
+    text-decoration: none;
+    margin-right: 20px;
+}
+.Search_button {
+    color: #eeeef4;
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: 10px;
+    margin-left: 350px;
+    width: 100px;
+    height: 30px;
+    background: url(images/buybtn.png) no-repeat;
+    font-weight: bold;
+
+}
+.productnw { display: inline; float: left; margin: 5px 0 10px; padding: 30px 15px 0 0; width: 223px; height: 400px; background: url(images/product1.png) no-repeat 0 0; }
+.productnw a img { color: #FFFFFF; display: block; padding: 0 0 34px 20px; width: 155px; height: 122px; }
+.productnw .desc { display: inline; float: left; padding-left: 20px; width: 111px; }
+.productnw .desc p span { color: #000; }
+.productnw .desc p.name { font-size: 14px; font-weight: bold; color: #056daf; }
+.productnw .price-box { display: inline; float: right; margin-top: 3px; padding: 5px 13px 0 0; width: 73px; height: 30px; background: url(images/price-box.png) no-repeat 0 0; }
+.productnw .price-box p { font-size: 14px; font-weight: bold; line-height: 24px; color: #024068; text-align: center; }
+.productnw .price-box p span.price { color: #fff; font-size: 24px; }
+
+.productup { display: inline; float: left; margin: 5px 0 10px; padding: 30px 15px 0 0; width: 223px; height: 270px; background: url(images/product.png) no-repeat 0 0; }
+.productup a img { color: #FFFFFF; display: block; padding: 0 0 34px 20px; width: 155px; height: 122px; }
+.productup .desc { display: inline; float: left; padding-left: 20px; width: 111px; }
+.productup .desc p span { color: #000; }
+.productup .desc p.name { font-size: 14px; font-weight: bold; color: #056daf; }
+.productup .price-box { display: inline; float: right; margin-top: 3px; padding: 5px 13px 0 0; width: 73px; height: 30px; background: url(images/price-box.png) no-repeat 0 0; }
+.productup .price-box p { font-size: 14px; font-weight: bold; line-height: 24px; color: #024068; text-align: center; }
+.productup .price-box p span.price { color: #fff; font-size: 24px; }
